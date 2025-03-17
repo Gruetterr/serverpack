@@ -1,2 +1,6 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "58bc826a0b2f0ba422144d35941dd912d349877225e121446180a14d7872040d"
+metafile = true
