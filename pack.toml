@@ -1,0 +1,13 @@
+name = "Serverpack"
+author = "Adi"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "eb81fabbbed1f58a83bb4d229fa7ad9db0c65d389cea4d4d8a0be4efeab94b41"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21.4"

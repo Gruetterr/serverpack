@@ -1,0 +1,11 @@
+hash-format = "sha256"
+
+[[files]]
+file = "fabulously-optimized.pw.toml"
+hash = "ea04470841fc1069be3fb5d62ddea2c680cb2731c4fd467b4e7a5a486aa6f0fc"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "d9c1bcc4b8ab05e309cd5cb88caf280dfd6901bcc679a7b504af1dcdb7b6a8d2"
+metafile = true
