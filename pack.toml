@@ -1,12 +1,12 @@
 name = "Serverpack"
-author = "Adi"
+author = "ADI"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3ad119a53754984ee270b455c73bdbf7d0e5e19175324be1bc4a6615e471e34f"
+hash = "7b81c9e9d9e6e21a9865a2dded0dfd77e7683d679b98fe5b0114eaed9a31f17e"
 
 [versions]
 fabric = "0.16.10"
